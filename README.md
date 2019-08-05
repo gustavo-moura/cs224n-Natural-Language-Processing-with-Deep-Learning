@@ -1,4 +1,4 @@
-# CS224N - Natural Language Processing with Deep Learning
+# Natural Language Processing with Deep Learning
 This repository contains my resolutions for the course CS224N Natural Language Processing with Deep Learning from the Stanford University.
 
 
