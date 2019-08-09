@@ -1,0 +1,3 @@
+
+Improved perplexity
+https://research.fb.com/blog/2016/10/building-an-efficient-neural-language-model-over-a-billion-words/?_fb_noscript=1
