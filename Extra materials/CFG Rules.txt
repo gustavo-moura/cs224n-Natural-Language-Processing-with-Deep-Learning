@@ -1,0 +1,17 @@
+Context-Free Grammar (CFG) Rules and Abbreviations
+
+* CFG rules are different for each language
+
+NP - Noun Phrase    NP -> Det N  NP -> Det (Adj) N
+PP - Prepositional Phrase
+VP - Verb Phrase
+
+N - Noun
+NN - singular Noun
+NNS - plural Noun
+Adj - Adjective
+P, Prep - Preposition
+Det - Determiner
+V - Verb
+num - numerical modifier
+amod - adjective modifier
